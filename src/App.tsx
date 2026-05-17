@@ -1,4 +1,4 @@
-import { Routes, Route, createBrowserRouter, RouterProvider } from "react-router-dom";
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import RealCakeCut from "./components/landingpage";
 import Celebration from "./components/celebrationPage";
 import TimeLinePhotos from "./components/timeline"
